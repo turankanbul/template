@@ -6,7 +6,6 @@ tags:
 - Fun
 categories:
 - Documentation
-draft: true
 
 ---
 ## Introduction
