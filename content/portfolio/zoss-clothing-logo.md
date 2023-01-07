@@ -4,6 +4,5 @@ category: Photo
 category_slug: photo
 source: photo
 image: images/works/work1.jpg
-draft: true
 
 ---
