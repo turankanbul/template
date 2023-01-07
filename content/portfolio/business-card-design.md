@@ -5,7 +5,6 @@ category_slug: design
 source: content
 image: images/works/work8.jpg
 button_url: 
-draft: true
 
 ---
 So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
