@@ -4,8 +4,8 @@ text: "<p>A Collection of my favorites project I’ve designed recently. Feeling
   while sharing here.</p>"
 menu:
   main:
-    identifier: about
     name: Hakkımda
+    identifier: about
     pre: ion-person
     weight: 1
     params:
@@ -16,5 +16,6 @@ menu:
       - facts
       - clients
       - testimonials
+draft: true
 
 ---
