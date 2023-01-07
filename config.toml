@@ -1,12 +1,12 @@
 # General Settings
-title = "RyanCV - CV Resume & vCard Hugo Theme"
-baseURL = "https://bslthemes.com/" #YOUR SITE URL
-languageCode = "en-us"
+title = "Turan KANBUL - Software Developer"
+baseURL = "https://turankanbul.tech"
+languageCode = "tr-TR"
 theme = "ryancv"
 resourceDir = "resources"
 paginate = 4
 summaryLength = 20
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "tr"
 
 # Menu Settings
 ##
