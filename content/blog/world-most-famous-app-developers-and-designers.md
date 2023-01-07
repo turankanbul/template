@@ -6,7 +6,6 @@ tags:
 - Fun
 categories:
 - Travel
-draft: true
 
 ---
 ## Introduction
