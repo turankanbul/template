@@ -6,7 +6,6 @@ tags:
 - Mobile
 categories:
 - Travel
-draft: true
 
 ---
 ## Introduction
