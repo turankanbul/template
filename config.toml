@@ -57,7 +57,7 @@ disqusComments = "your_disqus_shortname"
 formspreeURL = "https://formspree.io/f/your_api_key"
 googleAnalytics = ""
 rtl = 0
-skinColor = ""
+skinColor = "orange"
 skinDark = 0
 skinMinimal = 0
 [params.animation]

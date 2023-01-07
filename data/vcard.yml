@@ -8,8 +8,8 @@
 ### param "buttons" - Buttons, icon class you can find here https://ionicons.com/v4/
 
 main:
-  bgimage: "images/bg.jpg"
-  photo: ""
+  bgimage: "images/bg2.jpg"
+  photo: "images/profile.png"
   name: "Turan KANBUL"
   typed:
     - text: "Web Designer"
@@ -33,9 +33,9 @@ main:
       icon: "fab fa-stack-overflow"
       url: "https://stackoverflow.com/"
   buttons:
-    - title: "Özgeçmişi İndir"
+    - title: "Download CV"
       icon: "ion ion-archive"
       url: "/images/Resume-Template.pdf"
-    - title: "Benimle İletişime Geç"
+    - title: "Contact Me"
       icon: "arrow"
       url: "mailto:turankanbul@gmail.com"
