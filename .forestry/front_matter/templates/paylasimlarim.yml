@@ -1,0 +1,14 @@
+---
+label: Paylaşımlarım
+hide_body: true
+fields:
+- type: text
+  name: deneme_baslik
+  label: Deneme başlık
+  description: Burasi Deneme Sayfasıdır
+  config:
+    required: false
+- type: textarea
+  name: text
+  label: text
+  description: sdasdsadsada
