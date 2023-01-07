@@ -10,7 +10,7 @@
 main:
   bgimage: "images/bg.jpg"
   photo: ""
-  name: "Ryan Adlard"
+  name: "Turan KANBUL"
   typed:
     - text: "Web Designer"
     - text: "Blogger"
@@ -33,9 +33,9 @@ main:
       icon: "fab fa-stack-overflow"
       url: "https://stackoverflow.com/"
   buttons:
-    - title: "Download CV"
+    - title: "Özgeçmişi İndir"
       icon: "ion ion-archive"
       url: "/images/Resume-Template.pdf"
-    - title: "Contact Me"
+    - title: "Benimle İletişime Geç"
       icon: "arrow"
-      url: "mailto:bslthemes@gmail.com"
+      url: "mailto:turankanbul@gmail.com"
