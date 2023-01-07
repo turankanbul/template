@@ -1,0 +1,10 @@
+---
+label: Paylaşımlarım
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: text
+  label: text
