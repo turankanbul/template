@@ -16,6 +16,5 @@ menu:
       - facts
       - clients
       - testimonials
-draft: true
 
 ---
